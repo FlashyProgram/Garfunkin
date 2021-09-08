@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GarfMikeStepAside.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GarfMikeStepAside0000" x="0" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0001" x="0" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0002" x="0" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0003" x="0" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0004" x="0" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0005" x="0" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0006" x="0" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0007" x="0" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0008" x="0" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0009" x="0" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0010" x="0" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0011" x="0" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0012" x="0" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0013" x="541" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0014" x="541" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0015" x="1082" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0016" x="1082" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0017" x="1082" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0018" x="1082" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0019" x="1082" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0020" x="1082" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0021" x="1623" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0022" x="1623" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0023" x="1623" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0024" x="2164" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0025" x="2164" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0026" x="2164" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0027" x="2705" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0028" x="2705" y="0" width="541" height="858" frameX="-1" frameY="0" frameWidth="542" frameHeight="858"/>
+	<SubTexture name="GarfMikeStepAside0029" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0030" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0031" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0032" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0033" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0034" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0035" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0036" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0037" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0038" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0039" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0040" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0041" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0042" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0043" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0044" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0045" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0046" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0047" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0048" x="3246" y="0" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0049" x="0" y="858" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0050" x="0" y="858" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0051" x="0" y="858" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0052" x="0" y="858" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0053" x="0" y="858" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0054" x="0" y="858" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0055" x="0" y="858" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0056" x="0" y="858" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0057" x="0" y="858" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0058" x="0" y="858" width="542" height="858"/>
+	<SubTexture name="GarfMikeStepAside0059" x="0" y="858" width="542" height="858"/>
+</TextureAtlas>

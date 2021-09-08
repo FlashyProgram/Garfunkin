@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GarfMikeLaughB.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GarfMikeLaughB0000" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0001" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0002" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0003" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0004" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0005" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0006" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0007" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0008" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0009" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0010" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0011" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0012" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0013" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0014" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0015" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0016" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0017" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0018" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0019" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0020" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0021" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0022" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0023" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0024" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0025" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0026" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0027" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0028" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0029" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0030" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0031" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0032" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0033" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0034" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0035" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0036" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0037" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0038" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0039" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0040" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0041" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0042" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0043" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughB0044" x="541" y="0" width="541" height="858"/>
+</TextureAtlas>

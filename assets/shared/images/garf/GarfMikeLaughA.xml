@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GarfMikeLaughA.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GarfMikeLaughA0000" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0001" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0002" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0003" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0004" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0005" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0006" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0007" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0008" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0009" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0010" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0011" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0012" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0013" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0014" x="0" y="858" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0015" x="0" y="858" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0016" x="0" y="858" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0017" x="0" y="858" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0018" x="0" y="858" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0019" x="0" y="858" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0020" x="0" y="858" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0021" x="0" y="858" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0022" x="0" y="858" width="541" height="858"/>
+	<SubTexture name="GarfMikeLaughA0023" x="0" y="858" width="541" height="858"/>
+</TextureAtlas>

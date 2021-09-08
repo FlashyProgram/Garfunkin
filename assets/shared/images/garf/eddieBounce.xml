@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EddieBounce.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Eddie0000" x="0" y="0" width="420" height="379" frameX="-3" frameY="0" frameWidth="423" frameHeight="379"/>
+	<SubTexture name="Eddie0001" x="0" y="0" width="420" height="379" frameX="-3" frameY="0" frameWidth="423" frameHeight="379"/>
+	<SubTexture name="Eddie0002" x="420" y="0" width="423" height="379"/>
+	<SubTexture name="Eddie0003" x="420" y="0" width="423" height="379"/>
+	<SubTexture name="Eddie0004" x="843" y="0" width="410" height="379" frameX="-13" frameY="0" frameWidth="423" frameHeight="379"/>
+	<SubTexture name="Eddie0005" x="843" y="0" width="410" height="379" frameX="-13" frameY="0" frameWidth="423" frameHeight="379"/>
+	<SubTexture name="Eddie0006" x="1253" y="0" width="410" height="379" frameX="-13" frameY="0" frameWidth="423" frameHeight="379"/>
+	<SubTexture name="Eddie0007" x="1253" y="0" width="410" height="379" frameX="-13" frameY="0" frameWidth="423" frameHeight="379"/>
+	<SubTexture name="Eddie0008" x="0" y="379" width="410" height="379" frameX="-13" frameY="0" frameWidth="423" frameHeight="379"/>
+	<SubTexture name="Eddie0009" x="0" y="379" width="410" height="379" frameX="-13" frameY="0" frameWidth="423" frameHeight="379"/>
+	<SubTexture name="Eddie0010" x="0" y="379" width="410" height="379" frameX="-13" frameY="0" frameWidth="423" frameHeight="379"/>
+	<SubTexture name="Eddie0011" x="0" y="379" width="410" height="379" frameX="-13" frameY="0" frameWidth="423" frameHeight="379"/>
+	<SubTexture name="Eddie0012" x="0" y="379" width="410" height="379" frameX="-13" frameY="0" frameWidth="423" frameHeight="379"/>
+	<SubTexture name="Eddie0013" x="0" y="379" width="410" height="379" frameX="-13" frameY="0" frameWidth="423" frameHeight="379"/>
+</TextureAtlas>

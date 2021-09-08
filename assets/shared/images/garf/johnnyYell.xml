@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JohnnyYell.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JohnnyYell0000" x="0" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0001" x="0" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0002" x="536" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0003" x="536" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0004" x="536" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0005" x="1072" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0006" x="1072" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0007" x="1072" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0008" x="1608" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0009" x="1608" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0010" x="1608" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0011" x="1608" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0012" x="1608" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0013" x="1608" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0014" x="1608" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0015" x="1608" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0016" x="1608" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0017" x="1608" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0018" x="1608" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0019" x="1608" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0020" x="2144" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0021" x="2144" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0022" x="2680" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0023" x="2680" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0024" x="3216" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0025" x="3216" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0026" x="3216" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0027" x="3216" y="0" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0028" x="0" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0029" x="0" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0030" x="536" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0031" x="536" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0032" x="536" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0033" x="1072" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0034" x="1072" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0035" x="1072" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0036" x="1072" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0037" x="1608" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0038" x="1608" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0039" x="1608" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0040" x="2144" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0041" x="2144" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0042" x="2144" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0043" x="2144" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0044" x="2144" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0045" x="2144" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0046" x="2680" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0047" x="2680" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0048" x="2680" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0049" x="2680" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0050" x="2680" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0051" x="2680" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0052" x="2680" y="700" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0053" x="3216" y="700" width="540" height="700"/>
+	<SubTexture name="JohnnyYell0054" x="3216" y="700" width="540" height="700"/>
+	<SubTexture name="JohnnyYell0055" x="3216" y="700" width="540" height="700"/>
+	<SubTexture name="JohnnyYell0056" x="0" y="1400" width="540" height="700"/>
+	<SubTexture name="JohnnyYell0057" x="0" y="1400" width="540" height="700"/>
+	<SubTexture name="JohnnyYell0058" x="0" y="1400" width="540" height="700"/>
+	<SubTexture name="JohnnyYell0059" x="540" y="1400" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0060" x="540" y="1400" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0061" x="540" y="1400" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+	<SubTexture name="JohnnyYell0062" x="1076" y="1400" width="536" height="700" frameX="0" frameY="0" frameWidth="540" frameHeight="700"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MouseBounce.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MouseBounce0000" x="0" y="0" width="1755" height="331"/>
+	<SubTexture name="MouseBounce0001" x="0" y="0" width="1755" height="331"/>
+	<SubTexture name="MouseBounce0002" x="1755" y="0" width="1755" height="331"/>
+	<SubTexture name="MouseBounce0003" x="1755" y="0" width="1755" height="331"/>
+	<SubTexture name="MouseBounce0004" x="3510" y="0" width="1755" height="331"/>
+	<SubTexture name="MouseBounce0005" x="3510" y="0" width="1755" height="331"/>
+	<SubTexture name="MouseBounce0006" x="5265" y="0" width="1755" height="331"/>
+	<SubTexture name="MouseBounce0007" x="5265" y="0" width="1755" height="331"/>
+	<SubTexture name="MouseBounce0008" x="0" y="331" width="1755" height="331"/>
+	<SubTexture name="MouseBounce0009" x="0" y="331" width="1755" height="331"/>
+	<SubTexture name="MouseBounce0010" x="0" y="331" width="1755" height="331"/>
+	<SubTexture name="MouseBounce0011" x="0" y="331" width="1755" height="331"/>
+	<SubTexture name="MouseBounce0012" x="0" y="331" width="1755" height="331"/>
+	<SubTexture name="MouseBounce0013" x="0" y="331" width="1755" height="331"/>
+</TextureAtlas>

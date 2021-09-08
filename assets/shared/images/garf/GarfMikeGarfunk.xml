@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GarfMikeGarfunk.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GarfMikeGarfunk0000" x="0" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0001" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0002" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0003" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0004" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0005" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0006" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0007" x="541" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0008" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0009" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0010" x="1082" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0011" x="1623" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0012" x="1623" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0013" x="1623" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0014" x="1623" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0015" x="1623" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0016" x="2164" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0017" x="2164" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0018" x="2164" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0019" x="2705" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0020" x="2705" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0021" x="3246" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0022" x="3246" y="0" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0023" x="0" y="858" width="541" height="858"/>
+	<SubTexture name="GarfMikeGarfunk0024" x="541" y="858" width="434" height="799" frameX="-59" frameY="-41" frameWidth="541" frameHeight="858"/>
+	<SubTexture name="GarfMikeGarfunk0025" x="541" y="858" width="434" height="799" frameX="-59" frameY="-41" frameWidth="541" frameHeight="858"/>
+	<SubTexture name="GarfMikeGarfunk0026" x="541" y="858" width="434" height="799" frameX="-59" frameY="-41" frameWidth="541" frameHeight="858"/>
+	<SubTexture name="GarfMikeGarfunk0027" x="541" y="858" width="434" height="799" frameX="-59" frameY="-41" frameWidth="541" frameHeight="858"/>
+	<SubTexture name="GarfMikeGarfunk0028" x="541" y="858" width="434" height="799" frameX="-59" frameY="-41" frameWidth="541" frameHeight="858"/>
+	<SubTexture name="GarfMikeGarfunk0029" x="975" y="858" width="434" height="799" frameX="-59" frameY="-41" frameWidth="541" frameHeight="858"/>
+	<SubTexture name="GarfMikeGarfunk0030" x="975" y="858" width="434" height="799" frameX="-59" frameY="-41" frameWidth="541" frameHeight="858"/>
+	<SubTexture name="GarfMikeGarfunk0031" x="975" y="858" width="434" height="799" frameX="-59" frameY="-41" frameWidth="541" frameHeight="858"/>
+	<SubTexture name="GarfMikeGarfunk0032" x="975" y="858" width="434" height="799" frameX="-59" frameY="-41" frameWidth="541" frameHeight="858"/>
+	<SubTexture name="GarfMikeGarfunk0033" x="975" y="858" width="434" height="799" frameX="-59" frameY="-41" frameWidth="541" frameHeight="858"/>
+	<SubTexture name="GarfMikeGarfunk0034" x="975" y="858" width="434" height="799" frameX="-59" frameY="-41" frameWidth="541" frameHeight="858"/>
+</TextureAtlas>

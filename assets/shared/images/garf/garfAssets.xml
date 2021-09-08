@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GarfSprite.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Garf Idle0000" x="0" y="0" width="600" height="575"/>
+	<SubTexture name="Garf Idle0001" x="0" y="0" width="600" height="575"/>
+	<SubTexture name="Garf Idle0002" x="600" y="0" width="600" height="575"/>
+	<SubTexture name="Garf Idle0003" x="600" y="0" width="600" height="575"/>
+	<SubTexture name="Garf Idle0004" x="1200" y="0" width="600" height="575"/>
+	<SubTexture name="Garf Idle0005" x="1200" y="0" width="600" height="575"/>
+	<SubTexture name="Garf Idle0006" x="1800" y="0" width="600" height="575"/>
+	<SubTexture name="Garf Idle0007" x="1800" y="0" width="600" height="575"/>
+	<SubTexture name="Garf Idle0008" x="2400" y="0" width="600" height="575"/>
+	<SubTexture name="Garf Idle0009" x="2400" y="0" width="600" height="575"/>
+	<SubTexture name="Garf Idle0010" x="1800" y="0" width="600" height="575"/>
+	<SubTexture name="Garf Idle0011" x="1800" y="0" width="600" height="575"/>
+	<SubTexture name="Garf Idle0012" x="1800" y="0" width="600" height="575"/>
+	<SubTexture name="Garf Idle0013" x="1800" y="0" width="600" height="575"/>
+	<SubTexture name="GarfDown0000" x="3000" y="0" width="600" height="575"/>
+	<SubTexture name="GarfDown0001" x="3000" y="0" width="600" height="575"/>
+	<SubTexture name="GarfDown0002" x="0" y="575" width="600" height="575"/>
+	<SubTexture name="GarfDown0003" x="0" y="575" width="600" height="575"/>
+	<SubTexture name="GarfDown0004" x="0" y="575" width="600" height="575"/>
+	<SubTexture name="GarfDown0005" x="0" y="575" width="600" height="575"/>
+	<SubTexture name="GarfDown0006" x="0" y="575" width="600" height="575"/>
+	<SubTexture name="GarfDown0007" x="0" y="575" width="600" height="575"/>
+	<SubTexture name="GarfDown0008" x="0" y="575" width="600" height="575"/>
+	<SubTexture name="GarfDown0009" x="0" y="575" width="600" height="575"/>
+	<SubTexture name="GarfDown0010" x="0" y="575" width="600" height="575"/>
+	<SubTexture name="GarfDown0011" x="0" y="575" width="600" height="575"/>
+	<SubTexture name="GarfDown0012" x="0" y="575" width="600" height="575"/>
+	<SubTexture name="GarfDown0013" x="0" y="575" width="600" height="575"/>
+	<SubTexture name="GarfDown0014" x="0" y="575" width="600" height="575"/>
+	<SubTexture name="GarfDown0015" x="0" y="575" width="600" height="575"/>
+	<SubTexture name="GarfLeft0000" x="600" y="575" width="600" height="575"/>
+	<SubTexture name="GarfLeft0001" x="600" y="575" width="600" height="575"/>
+	<SubTexture name="GarfLeft0002" x="1200" y="575" width="600" height="575"/>
+	<SubTexture name="GarfLeft0003" x="1200" y="575" width="600" height="575"/>
+	<SubTexture name="GarfLeft0004" x="1200" y="575" width="600" height="575"/>
+	<SubTexture name="GarfLeft0005" x="1200" y="575" width="600" height="575"/>
+	<SubTexture name="GarfLeft0006" x="1200" y="575" width="600" height="575"/>
+	<SubTexture name="GarfLeft0007" x="1200" y="575" width="600" height="575"/>
+	<SubTexture name="GarfLeft0008" x="1200" y="575" width="600" height="575"/>
+	<SubTexture name="GarfLeft0009" x="1200" y="575" width="600" height="575"/>
+	<SubTexture name="GarfLeft0010" x="1200" y="575" width="600" height="575"/>
+	<SubTexture name="GarfLeft0011" x="1200" y="575" width="600" height="575"/>
+	<SubTexture name="GarfLeft0012" x="1200" y="575" width="600" height="575"/>
+	<SubTexture name="GarfLeft0013" x="1200" y="575" width="600" height="575"/>
+	<SubTexture name="GarfLeft0014" x="1200" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0000" x="1800" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0001" x="1800" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0002" x="1800" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0003" x="1800" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0004" x="1800" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0005" x="1800" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0006" x="2400" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0007" x="2400" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0008" x="2400" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0009" x="2400" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0010" x="2400" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0011" x="2400" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0012" x="2400" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0013" x="2400" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0014" x="2400" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0015" x="2400" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0016" x="3000" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0017" x="3000" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0018" x="3000" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0019" x="3000" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0020" x="3000" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0021" x="3000" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0022" x="3000" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0023" x="3000" y="575" width="600" height="575"/>
+	<SubTexture name="GarfPurr0024" x="0" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfPurr0025" x="0" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfPurr0026" x="0" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfPurr0027" x="0" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfPurr0028" x="0" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfRight0000" x="600" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfRight0001" x="600" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfRight0002" x="1200" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfRight0003" x="1200" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfRight0004" x="1200" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfRight0005" x="1200" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfRight0006" x="1200" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfRight0007" x="1200" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfRight0008" x="1200" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfRight0009" x="1200" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfRight0010" x="1200" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfRight0011" x="1200" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfRight0012" x="1200" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfRight0013" x="1200" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfRight0014" x="1200" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfUp0000" x="1800" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfUp0001" x="1800" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfUp0002" x="2400" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfUp0003" x="2400" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfUp0004" x="2400" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfUp0005" x="2400" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfUp0006" x="2400" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfUp0007" x="2400" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfUp0008" x="2400" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfUp0009" x="2400" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfUp0010" x="2400" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfUp0011" x="2400" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfUp0012" x="2400" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfUp0013" x="2400" y="1150" width="600" height="575"/>
+	<SubTexture name="GarfUp0014" x="2400" y="1150" width="600" height="575"/>
+</TextureAtlas>
